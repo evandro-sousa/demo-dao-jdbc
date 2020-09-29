@@ -1,0 +1,4 @@
+user=root
+password=
+DBurl=jdbc:mysql://localhost:3306/dbhibernate
+useSSL=false
